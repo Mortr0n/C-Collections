@@ -1,0 +1,15 @@
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.exe
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.deps.json
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.runtimeconfig.json
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.dll
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\bin\Debug\net6.0\ref\CollectionsPractice.dll
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.pdb
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.csproj.AssemblyReference.cache
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.AssemblyInfo.cs
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.dll
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\ref\CollectionsPractice.dll
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.pdb
+C:\Users\chris.g.morton\studyProjects\C#\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.genruntimeconfig.cache
